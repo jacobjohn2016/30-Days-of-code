@@ -1,7 +1,8 @@
 # 30 Days of code
 
 Attempt to crack C programming by solving one program per day.
-Aim: Commit at least once every day for the next 30 days.
+
+*Aim:* Commit at least once every day for the next 30 days.
 
 ## Checksum
 ### 10/15/18
