@@ -35,5 +35,5 @@ Source: [GeeksForGeeks](https://www.geeksforgeeks.org/socket-programming-cc/)
 ## Checksum
 ### 10/20/18
 
-####Note
+#Note
 * All programs were compiled using the `gcc-8` and `gcc` compiler on MacOS.
