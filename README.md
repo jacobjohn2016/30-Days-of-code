@@ -42,5 +42,23 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Go-Back-N_ARQ)
 * It is a special case of the general sliding window protocol with the transmit window size of N and receive window size of 1.
 * It can transmit N frames to the peer before requiring an ACK.
 
+## Selective Repeat
+### 10/20/18
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Selective_Repeat_ARQ)
+* Selective Repeat ARQ/Selective Reject ARQ is a specific instance of the automatic repeat-request (ARQ) protocol used to solve sequence number dilemma in communications.
+* With selective repeat, the sender sends a number of frames specified by a window size even without the need to wait for individual ACK from the receiver as in Go-Back-N ARQ
+* The receiver may selectively reject a single frame, which may be retransmitted alone; this contrasts with other forms of ARQ, which must send every frame from that point again
+* The receiver accepts out-of-order frames and buffers them. 
+* The sender individually retransmits frames that have timed out.
+
+
+## Stop and Wait ARQ
+### 10/21/18
+Source: [Wikipedia](https://www.geeksforgeeks.org/stop-and-wait-arq/)
+* Used in Connection-oriented communication.
+* It offers error and flow control
+* It is used in Data Link and Transport Layers
+* Stop and Wait ARQ mainly implements Sliding Window Protocol concept with Window Size 1
+
 ## Note
 * All programs were compiled using the `gcc-8` and `gcc` compiler on MacOS.
