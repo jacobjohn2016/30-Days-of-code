@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
+/* convert decimal to binary*/
 unsigned long long bin(unsigned long long x)
 {
     unsigned long long binary = 0, i = 1, r;
@@ -14,6 +15,7 @@ unsigned long long bin(unsigned long long x)
     return binary;
 }
 
+/* convert binay to decimal*/
 unsigned long long dec(unsigned long long x)
 {
     unsigned long long decimal = 0, i = 1, r;
