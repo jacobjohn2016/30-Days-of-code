@@ -37,6 +37,10 @@ Source: [GeeksForGeeks](https://www.geeksforgeeks.org/computer-network-hamming-c
 
 ## Go Back N
 ### 10/19/18
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Go-Back-N_ARQ)
+* Go-Back-N ARQ is a specific instance of the automatic repeat request (ARQ) protocol, in which the sending process continues to send a number of frames specified by a window size even without receiving an acknowledgement (ACK) packet from the receiver.
+* It is a special case of the general sliding window protocol with the transmit window size of N and receive window size of 1.
+* It can transmit N frames to the peer before requiring an ACK.
 
 ## Note
 * All programs were compiled using the `gcc-8` and `gcc` compiler on MacOS.
