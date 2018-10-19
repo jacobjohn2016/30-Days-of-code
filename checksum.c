@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 
 /* convert decimal to binary*/
 unsigned long long bin(unsigned long long x)
@@ -7,15 +6,18 @@ unsigned long long bin(unsigned long long x)
     unsigned long long binary = 0, i = 1, r;
     while (x > 0)
     {
+        //extract last digit
         r = x % 2;
+        //remove last digit
         x = x / 2;
+        //add last digit to binary number
         binary = binary + (r * i);
         i = i * 10;
     }
     return binary;
 }
 
-/* convert binay to decimal*/
+/* convert binary to decimal*/
 unsigned long long dec(unsigned long long x)
 {
     unsigned long long decimal = 0, i = 1, r;
@@ -40,6 +42,7 @@ int main() {
     {
         printf("\nEnter the number in binary: ");
         scanf("%llu",&x[i]);
+        //calculate sum
         sum += dec(x[i]);
     }
 
@@ -51,6 +54,7 @@ int main() {
     {
         r = b%10;
         b = b/10;
+        //inverse the bits
         if(r == 0)
             cs = cs + i;
         i = i * 10;
