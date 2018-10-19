@@ -37,7 +37,7 @@ int main() {
     {
         quot[i] = mestemp[0];
 
-        //bit of message is 0?
+        //MSB is 0?
         if (quot[i] == '0')
             //then XOR with 0s
             for (j = 0; j < divilen; j++)
