@@ -71,9 +71,14 @@ Source: [GeeksForGeeks](https://www.geeksforgeeks.org/socket-programming-cc/)
 ### Day 9: 10/23/18
 * Program to create a chat application using sockets
 
-## TBD
+## Classful Addressing
 ### Day 10: 10/24/18
-* TBD
+* Find the class of a given IPv4 Address
+* Class A		  1     to    126
+* Class B		128 	to    191
+* Class C		192	    to    223
+* Class D		224	    to    239
+* Class E		240	    to    254
 
 ## TBD
 ### Day 11: 10/25/18
