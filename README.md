@@ -88,11 +88,14 @@ Source: [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/find-n-th-te
 
 ## TBD
 ### Day 12: 10/26/18
-* TBD
+Source: [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1)
+* Print alternate elements of an array
+* You are given an array A of size N. You need to print elements of A in alternate order.
+* The first line of input contains T denoting the number of testcases. T testcases follow. Each test case contains two lines of input. The first line contains N and the second line contains the elements of the array.
 
 ## TBD
 ### Day 13: 10/27/18
 * TBD
 
 ## Note
-* All programs were compiled using the `gcc-8` and `gcc` compiler on MacOS.
+* All programs were compiled using the `gcc-8`, `g++` and `gcc` compiler on MacOS.
