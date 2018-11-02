@@ -80,9 +80,11 @@ Source: [GeeksForGeeks](https://www.geeksforgeeks.org/socket-programming-cc/)
 * Class D		224	    to    239
 * Class E		240	    to    254
 
-## TBD
+## Nth term in sequence
 ### Day 11: 10/25/18
-* TBD
+Source: [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/find-n-th-term-of-series-1-3-6-10-15-21/0)
+* Given a number N, find the Nth term in the series 1, 3, 6, 10, 15, 21...
+* The first line of input contains a positive integer T denoting the number of testcases. For each test case, there will be a single line containing an integer N.
 
 ## TBD
 ### Day 12: 10/26/18
