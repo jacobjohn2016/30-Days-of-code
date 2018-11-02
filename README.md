@@ -86,12 +86,11 @@ Source: [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/find-n-th-te
 * Given a number N, find the Nth term in the series 1, 3, 6, 10, 15, 21...
 * The first line of input contains a positive integer T denoting the number of testcases. For each test case, there will be a single line containing an integer N.
 
-## TBD
+## Print alternate elements of an array
 ### Day 12: 10/26/18
 Source: [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1)
-* Print alternate elements of an array
 * You are given an array A of size N. You need to print elements of A in alternate order.
-* The first line of input contains T denoting the number of testcases. T testcases follow. Each test case contains two lines of input. The first line contains N and the second line contains the elements of the array.
+* The first line of input contains T denoting the number of testcases. T testcases follow. Each test case contains two lines of input. The first line contains N and the second line contains the elements of the array.    
 
 ## TBD
 ### Day 13: 10/27/18
