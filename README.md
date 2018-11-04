@@ -92,9 +92,11 @@ Source: [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/print-altern
 * You are given an array A of size N. You need to print elements of A in alternate order.
 * The first line of input contains T denoting the number of testcases. T testcases follow. Each test case contains two lines of input. The first line contains N and the second line contains the elements of the array.    
 
-## TBD
+## Subarray with given sum
 ### Day 13: 10/27/18
-* TBD
+Source: [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0#ExpectOP)
+* Given an unsorted array A of size N of non-negative integers, find a continuous sub-array which adds to a given number.
+* For each testcase, in a new line, print the starting and ending positions(1 indexing) of first such occuring subarray from the left if sum equals to subarray, else print -1.
 
 ## Note
 * All programs were compiled using the `gcc-8`, `g++` and `gcc` compiler on MacOS.
