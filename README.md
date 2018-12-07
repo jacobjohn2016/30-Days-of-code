@@ -98,5 +98,35 @@ Source: [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/subarray-wit
 * Given an unsorted array A of size N of non-negative integers, find a continuous sub-array which adds to a given number.
 * For each testcase, in a new line, print the starting and ending positions(1 indexing) of first such occuring subarray from the left if sum equals to subarray, else print -1.
 
+## Star Pattern - 1
+### Day 14: 10/28/18
+* Print the following star pattern:
+```C
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2
+1
+```
+
+## Star Pattern - 2
+### Day 15: 10/29/18
+* Print the following star pattern:
+```C
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
+```
+
 ## Note
 * All programs were compiled using the `gcc-8`, `g++` and `gcc` compiler on MacOS.
