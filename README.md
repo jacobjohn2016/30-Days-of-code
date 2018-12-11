@@ -128,5 +128,13 @@ Source: [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/subarray-wit
     *
 ```
 
+## Character - Frequency Table
+### Day 16: 10/30/18
+* Take a string input from the user
+* Make all letters in the string to be in lowercase
+* Process character by character
+* If the character is an alphabet then increment count of it
+* Print count of all alphabets
+
 ## Note
 * All programs were compiled using the `gcc-8`, `g++` and `gcc` compiler on MacOS.
