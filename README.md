@@ -138,7 +138,7 @@ Source: [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/subarray-wit
 
 ## Tic Tac Toe
 ### Day 17: 10/31/18
-Source: http://www.cprogrammingnotes.com/question/tic-tac-toe-game.html
+Source: [C Programming Notes](http://www.cprogrammingnotes.com/question/tic-tac-toe-game.html)
 * Windows: Replace `curses.h` with `conio.h`
 * Mac & Linux: Use `gcc 17_tic_tac_toe.c -lpcurses` to compile and `./a.out` to execute
 
