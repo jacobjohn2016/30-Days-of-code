@@ -160,7 +160,7 @@ void myFunction(int *a)
 ```
 * Way 2 -
 ```C
-void myFunction(int *a) 
+void myFunction(int a[10]) 
 { . . . }
 ```
 * Way 3 -
@@ -168,6 +168,9 @@ void myFunction(int *a)
 void myFunction(int a[]ls ) 
 { . . . }
 ```
+
+## Pass a 2D array as a Single Dimensional Array
+### Day 20: 11/3/18
 
 ## Note
 * All programs were compiled using the `gcc-8`, `g++` and `gcc` compiler on MacOS.
