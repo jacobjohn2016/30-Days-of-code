@@ -148,5 +148,26 @@ Source: [C Programming Notes](http://www.cprogrammingnotes.com/question/tic-tac-
 * Inside the function, the address is used to access the actual argument used in the call.
 * It means the changes made to the parameter affect the passed argument.
 
+## Pass a Single Dimensional Array as Argument
+### Day 19: 11/2/18
+* Passed by reference or address by default
+* Changes made in function gets reflected in main()
+* Three ways to pass arrays in C all are same
+* Way 1 - 
+```C
+void myFunction(int *a) 
+{ . . . }
+```
+* Way 2 -
+```C
+void myFunction(int *a) 
+{ . . . }
+```
+* Way 3 -
+```C
+void myFunction(int a[]ls ) 
+{ . . . }
+```
+
 ## Note
 * All programs were compiled using the `gcc-8`, `g++` and `gcc` compiler on MacOS.
