@@ -142,5 +142,11 @@ Source: [C Programming Notes](http://www.cprogrammingnotes.com/question/tic-tac-
 * Windows: Replace `curses.h` with `conio.h`
 * Mac & Linux: Use `gcc 17_tic_tac_toe.c -lpcurses` to compile and `./a.out` to execute
 
+## Swap values using call by reference
+### Day 18: 11/1/18
+* The call by reference method of passing arguments to a function copies the address of an argument into the formal parameter. 
+* Inside the function, the address is used to access the actual argument used in the call.
+* It means the changes made to the parameter affect the passed argument.
+
 ## Note
 * All programs were compiled using the `gcc-8`, `g++` and `gcc` compiler on MacOS.
