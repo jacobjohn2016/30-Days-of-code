@@ -172,5 +172,17 @@ void myFunction(int a[]ls )
 ## Pass a 2D array as a Single Dimensional Array
 ### Day 20: 11/3/18
 
+## Factorial (using recursion)
+### Day 21: 11/4/18
+* In mathematics, the factorial of a positive integer n, denoted by `n!`, is the product of all positive integers less than or equal to n. 
+* For example, The value of 0! is 1, according to the convention for an empty product.
+
+## Fibonacci (using recursion)
+### Day 22: 11/5/18
+* The Fibonacci Sequence is the series of numbers:
+    `0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...`
+* The next number is found by adding up the two numbers before it.
+* Example: the next number in the sequence above is 21+34 = 55
+
 ## Note
 * All programs were compiled using the `gcc-8`, `g++` and `gcc` compiler on MacOS.

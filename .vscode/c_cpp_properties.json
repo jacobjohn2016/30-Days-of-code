@@ -1,7 +1,12 @@
 {
     "configurations": [
         {
-            "name": "Mac"
+            "name": "Mac",
+            "includePath": [
+                "${default}",
+                "/usr/local/Cellar/gcc/8.2.0/include/c++/8.2.0/x86_64-apple-darwin17.7.0",
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Kernel.framework/Versions/A/Headers/sys"
+            ]
         }
     ],
     "version": 4
