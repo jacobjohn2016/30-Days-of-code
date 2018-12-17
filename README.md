@@ -1,6 +1,6 @@
 # 30 Days of code
 
-**Aim:** Commit at least once every day for the next 30 days. Attempt to crack C programming by solving one program per day.
+**Aim:** Commit at least once every day for the next 30 days. Attempt to crack beginner level C programming by doing a program per day.
 
 ## Checksum
 ### Day 1: 10/15/18
