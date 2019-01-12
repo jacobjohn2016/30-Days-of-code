@@ -2,6 +2,10 @@
 
 **Aim:** Commit at least once every day for the next 30 days. Attempt to crack beginner level C programming by doing a program per day.
 
+**Note:** Due to other _commitments_ (pun intended) and coursework, I had to disband this project. Thank you for all your support!
+
+Please feel free to follow my other [Java Programming Repo](https://github.com/jacobjohn2016/Java-Programming).
+
 ## Checksum
 ### Day 1: 10/15/18
 Source: [GeeksForGeeks](https://www.geeksforgeeks.org/error-detection-computer-networks/)
